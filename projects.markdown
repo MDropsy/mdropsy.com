@@ -73,7 +73,7 @@ permalink: /projects/
                         <a class="a-card">
                             <h5>Real Time Face Detection with OpenCV</h5>
                         </a>
-                        <button type="button" class="btn btn-dark fixed-btn" onclick="window.location.href='https://github.com/Joffreybvn/bot-scrape-zimmo'">See on Github</button>
+                        <button type="button" class="btn btn-dark fixed-btn" onclick="window.location.href='https://github.com/MDropsy/Face_recognition'">See on Github</button>
                     </div>
                     <a class="a-card" >
                         <div class="card-body">
@@ -103,7 +103,8 @@ permalink: /projects/
                     </div>
                     <a class="a-card">
                         <div class="card-body">
-                            <p class="card-text">Streamlit app using webcam and deep learning to detect the visitor's emotion</p>
+                            <p class="card-text">Streamlit app using webcam and deep learning to detect the visitor's emotion<br>
+                            Based on the 7 basics emotions</p>
                             
                         </div>
                     </a>
