@@ -18,21 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Joffrey Bienvenu
-email: joffreybvn@gmail.com
+title: Maxime Dropsy
+email: maximedropsy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Machine Learning student at BeCode.org,
-  developing Python libraries,
-  traveling around Colombia.
+  Machine Learning student at BeCode.org
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://joffreybvn.be" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mdropsy.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-twitter_username: joffreybvn
-github_username: joffreybvn
-medium_username: joffreybvn
-linkedin_username: joffreybvn
 
-full_name: Joffrey Bienvenu
+github_username: MDropsy
+linkedin_username: maxime-dropsy
+
+full_name: Maxime Dropsy
 
 # Build settings
 destination: docs/
