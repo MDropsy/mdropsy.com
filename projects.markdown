@@ -127,7 +127,7 @@ permalink: /projects/
                     </div>
                     <a class="a-card">
                         <div class="card-body">
-                            <p class="card-text">Python script to retreive data about an instagram account and perform statistical anlysis</p>
+                            <p class="card-text">Python script to retrieve data about an instagram account and perform statistical analysis</p>
                             
                         </div>
                     </a>
